@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Laurine ! I'm from France, currently living in Paris.
 - 🌱 I’m currently learning web development at IFOCOP in Paris.
 - 💞️ I’m looking for a job as a junior front end web developer.
+- I use to work with HTML, CSS, Javascript, PHP, MySQL, Bootstrap & Jquery.
 - 📫 This is how to reach me : laurine.mahoungou@gmail.com
 
 <!---
